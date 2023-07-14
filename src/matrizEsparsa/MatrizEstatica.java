@@ -1,4 +1,4 @@
-package trabalhoFinal;
+package matrizEsparsa;
 
 import java.util.Random;
 

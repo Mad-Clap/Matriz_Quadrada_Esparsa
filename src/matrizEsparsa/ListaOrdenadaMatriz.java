@@ -1,4 +1,4 @@
-package trabalhoFinal;
+package matrizEsparsa;
 
 public class ListaOrdenadaMatriz {
     protected Elo prim;
