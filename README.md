@@ -1,4 +1,4 @@
-<h1 align="center">Matrizes quadradas esparsas<h1>
+<h1 align="center">Matrizes Quadradas Esparsas<h1>
 
 # Matriz de vetores e listas encadeadas
 A biblioteca de matrizes esparsas foi construída para teste da eficiência de se implementar uma estrutura de dados dinâmica (listas encadeadas), e uma estrutura de dados estática (vetor de vetores), para armazenamento de matrizes com alto grau de esparsidade .
