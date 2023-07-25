@@ -1,7 +1,7 @@
 <h1 align="center">Matrizes quadradas esparsas<h1>
 
 # Matriz de vetores e listas encadeadas
-A biblioteca de matrizes esparsas foi construída para teste da eficiência de se implementar uma estrutura de dados dinâmica (listas encadeadas), e uma estrutura de dados estática (vetor de vetores), para amarzenamento de matrizes com alto grau de esparsidade .
+A biblioteca de matrizes esparsas foi construída para teste da eficiência de se implementar uma estrutura de dados dinâmica (listas encadeadas), e uma estrutura de dados estática (vetor de vetores), para armazenamento de matrizes com alto grau de esparsidade .
 
 O resultado do experimento demonstrou que é possível armazenar matrizes esparsas com mais colunas e linhas utilizando uma estrutura de dados dinâmica, enquanto uma matriz estática tende a estourar o limite de endereçamento de memória mais rapidamente, pois é utilizado um endereço de memória para armazenar elementos nulos da matriz. 
 
